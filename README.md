@@ -4,6 +4,7 @@
     <details>
     <summary>About Me</summary>
             Dept. of AI·Software, Gachon University
+            FrontEnd
     </summary>
 </div>
 <div>
@@ -19,4 +20,19 @@
     <a href="https://github.com/zsjon/github-readme-activity-graph">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=zsjon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
     </a>
+</div>
+<div>
+    <h1> Experience </h1>
+    <p> 가천대학교 ISSR Lab. 2024.03 ~ </p>
+    <p> Advisor: 민홍 교수님 </p>
+    <h1> Survey </h1>
+    <p> 2024 한국스마트미디어학회&한국전자거래학회 춘계학술대회 "UWB 앵커 사이의 거리에 다른 측위 오차 분석" 논문 실험 진행 </p>
+    <p> 한국정보처리학회 ASK 2024 "UWB 앵커 사이의 거리에 다른 측위 오차 분석" 논문 실험 진행 </p>
+    <p> 한국정보처리학회 ACK 2024 "학습데이터에 따른 모델 예측 능력 분석" 논문 연구 참여 </p>
+    <p> 한국처리학회 ACK 2024"RISC-V 아키텍처의 다양한 응용 분야별 설계 동향 및 활용 사례 분석" 논문 연구 및 발표 </p>
+    <p> 2024 스마트미디어학회 "YOLOv5를 통한 이미지 분석 기반 유실물 탐지 설계" 논문 연구 및 발표 </p>
+    <h1> Projects </h1>
+    <p>2024 서울시 AIoT 해커톤 경진대회 장려상 - CLUE (공원 내 CCTV를 활용한 유실 따릉이 감지 시스템 개발) </p>
+    <p>Role) FrontEnd </p>
+    
 </div>
