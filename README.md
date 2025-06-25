@@ -46,7 +46,7 @@
     <br/>
     <h1> Internship </h1>
     <p> SB Systems </p>
-    <p> WithSafe - Samsung Galaxy Watch 기반 안전관리 플랫폼 Watch App 개발 </p>
+    <p> WithSafe - Samsung Galaxy Watch 기반 안전관리 Watch App 개발 </p>
     <p> 2024.12 ~ 2025.02 </p>
     <h1> Projects </h1>
     <h2> CLUE (공원 내 CCTV를 활용한 유실 따릉이 감지 시스템 개발) </h3>
@@ -70,7 +70,7 @@
     <h2> Retriever (온라인 마약거래 수사 보조 탐지 플랫폼) </h3>
     <p> 💌 Role) FrontEnd </p>
     <p> 💌 2024.09 ~ 2025.06 </p>
-    <p> 💌 2024-25 Gachon Capstone Project </p>
+    <p> 💌 2024-25 Gachon Capstone Project 대상 </p>
     <a href="https://github.com/Gachon-Univ-Team7-Retriever/Retriever_front"> - Project Link </a>
     
     
