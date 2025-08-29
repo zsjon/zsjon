@@ -27,14 +27,22 @@
     <!-- Frontend Stack -->
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=react&logoColor=black" alt="Nodejs"/>
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Nextjs"/>
+    <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/CSS%20Modules-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Modules"/>
+    <img src="https://img.shields.io/badge/Bulma%20CSS-FDFDFD?style=for-the-badge&logo=bulma&logoColor=00D1B2" alt="Bulma CSS"/>
+
   </p>
 </div>
 <div>
     <h1> Experience </h1>
-    <p> 가천대학교 ISSR Lab. 2024.03 ~ 2025.04 </p>
+    <h3> 가천대학교 ISSR Lab. </h3>
+    <p> 2024.03 ~ 2025.04 </p>
     <p> Advisor: 민홍 교수님 </p>
+    <br/>
+    <h3> 2025-1 가천 Kakao Enterprise SW Academy Project 6기 </h3>
+    <p> 2025.03 ~ 2025.08 </p>
     <h1> Survey </h1>
     <p> 2024 한국스마트미디어학회&한국전자거래학회 춘계학술대회 "UWB 앵커 사이의 거리에 다른 측위 오차 분석" 논문 실험 진행 </p>
     <p> 한국정보처리학회 ASK 2024 "UWB 앵커 사이의 거리에 다른 측위 오차 분석" 논문 실험 진행 </p>
@@ -64,14 +72,20 @@
     <h2> PlayUs (KBO 직관 커뮤니티 서비스)</h3>
     <p> 💌 Role) FrontEnd Part Lead </p>
     <p> 💌 2025.03 ~ 2025.06 </p>
-    <p> 💌 2025-1 가천 Kakao Enterprise SW Academy Project </p>
+    <p> 💌 2025-1 가천 Kakao Enterprise SW Academy Project 6기 </p>
     <a href="https://github.com/KEA-ChunSam/PlayUs-FE"> - Project Link </a>
     <br/>
     <h2> Retriever (온라인 마약거래 수사 보조 탐지 플랫폼) </h3>
     <p> 💌 Role) FrontEnd </p>
-    <p> 💌 2024.09 ~ 2025.06 </p>
+    <p> 💌 2024.09 ~ 2025.08 </p>
     <p> 💌 2024-25 Gachon Capstone Project 대상 </p>
-    <a href="https://github.com/Gachon-Univ-Team7-Retriever/Retriever_front"> - Project Link </a>
+    <p> 💌 2025 SW중심대학 디지털 경진대회 SW부문 후원기업상 & 인기상 </p>
+    <a href="https://github.com/Gachon-Vigilante/Retriever_Frontend"> - Project Link </a>
+    <br/>
+    <h2> Fourka (사내규정 알리미 챗봇 & 관리 플랫폼)  </h3>
+    <p> 💌 Role) FrontEnd </p>
+    <p> 💌 2025.07 ~ 2025.08 </p>
+    <p> 💌 2025 가천 Kakao Enterprise SW Academy 6기 기업실무 우수팀 </p>
     
     
 </div>
