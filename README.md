@@ -86,6 +86,6 @@
     <p> 💌 Role) FrontEnd </p>
     <p> 💌 2025.07 ~ 2025.08 </p>
     <p> 💌 2025 가천 Kakao Enterprise SW Academy 6기 기업실무 우수팀 </p>
-    
+    <a href="https://github.com/FourkaChip/Arah_FE"> - Project Link </a>
     
 </div>
