@@ -87,5 +87,10 @@
     <p> 💌 2025.07 ~ 2025.08 </p>
     <p> 💌 2025 가천 Kakao Enterprise SW Academy 6기 기업실무 우수팀 </p>
     <a href="https://github.com/FourkaChip/Arah_FE"> - Project Link </a>
-    
+    <br/>
+    <h2> Portfolio_zsj (개인 포트폴리오 사이트)  </h3>
+    <p> 💌 Role) FrontEnd </p>
+    <p> 💌 2025.09 ~ </p>
+    <p> 💌 개인 포트폴리오 프로젝트로써, 꾸준히 업데이트될 예정입니다! </p>
+    <a href="https://github.com/zsjon/Portfolio_zsj"> - Project Link </a>
 </div>
